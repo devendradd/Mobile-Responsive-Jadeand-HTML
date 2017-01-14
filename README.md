@@ -47,7 +47,7 @@ html
                 a(href='#') One more separated link
                 
                 
-                
+      -------------------------------------------------------------------------------          
                 
                 
  use below code for HTML mobile responsive
@@ -95,3 +95,8 @@ html
    </div>
    
 </nav>
+
+
+
+------------------------Html with responsive navigation and dropdown emedded with bootstrap-------------------
+
